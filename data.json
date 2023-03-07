@@ -1,0 +1,40 @@
+{
+    "prices": [
+        {
+            "city": "Marrakech",
+            "iataCode": "RAK",
+            "lowestPrice": 120,
+            "id": 2
+        },
+        {
+            "city": "Rabat",
+            "iataCode": "RBA",
+            "lowestPrice": 120,
+            "id": 3
+        },
+        {
+            "city": "Casablanca",
+            "iataCode": "CMN",
+            "lowestPrice": 120,
+            "id": 4
+        },
+        {
+            "city": "Agadir",
+            "iataCode": "AGA",
+            "lowestPrice": 120,
+            "id": 5
+        },
+        {
+            "city": "Tangeri",
+            "iataCode": "TNG",
+            "lowestPrice": 120,
+            "id": 6
+        },
+        {
+            "city": "Fes",
+            "iataCode": "FEZ",
+            "lowestPrice": 120,
+            "id": 7
+        }
+    ]
+}
